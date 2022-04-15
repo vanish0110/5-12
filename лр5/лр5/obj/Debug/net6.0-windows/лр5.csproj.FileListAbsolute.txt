@@ -1,0 +1,17 @@
+D:\дз\программирование2семестр\лрС#\работа 5\лр5\лр5\obj\Debug\net6.0-windows\лр5.csproj.AssemblyReference.cache
+D:\дз\программирование2семестр\лрС#\работа 5\лр5\лр5\obj\Debug\net6.0-windows\лр5.Form1.resources
+D:\дз\программирование2семестр\лрС#\работа 5\лр5\лр5\obj\Debug\net6.0-windows\лр5.csproj.GenerateResource.cache
+D:\дз\программирование2семестр\лрС#\работа 5\лр5\лр5\obj\Debug\net6.0-windows\лр5.GeneratedMSBuildEditorConfig.editorconfig
+D:\дз\программирование2семестр\лрС#\работа 5\лр5\лр5\obj\Debug\net6.0-windows\лр5.AssemblyInfoInputs.cache
+D:\дз\программирование2семестр\лрС#\работа 5\лр5\лр5\obj\Debug\net6.0-windows\лр5.AssemblyInfo.cs
+D:\дз\программирование2семестр\лрС#\работа 5\лр5\лр5\obj\Debug\net6.0-windows\лр5.csproj.CoreCompileInputs.cache
+D:\дз\программирование2семестр\лрС#\работа 5\лр5\лр5\bin\Debug\net6.0-windows\лр5.exe
+D:\дз\программирование2семестр\лрС#\работа 5\лр5\лр5\bin\Debug\net6.0-windows\лр5.deps.json
+D:\дз\программирование2семестр\лрС#\работа 5\лр5\лр5\bin\Debug\net6.0-windows\лр5.runtimeconfig.json
+D:\дз\программирование2семестр\лрС#\работа 5\лр5\лр5\bin\Debug\net6.0-windows\лр5.dll
+D:\дз\программирование2семестр\лрС#\работа 5\лр5\лр5\bin\Debug\net6.0-windows\лр5.pdb
+D:\дз\программирование2семестр\лрС#\работа 5\лр5\лр5\obj\Debug\net6.0-windows\лр5.dll
+D:\дз\программирование2семестр\лрС#\работа 5\лр5\лр5\obj\Debug\net6.0-windows\refint\лр5.dll
+D:\дз\программирование2семестр\лрС#\работа 5\лр5\лр5\obj\Debug\net6.0-windows\лр5.pdb
+D:\дз\программирование2семестр\лрС#\работа 5\лр5\лр5\obj\Debug\net6.0-windows\лр5.genruntimeconfig.cache
+D:\дз\программирование2семестр\лрС#\работа 5\лр5\лр5\obj\Debug\net6.0-windows\ref\лр5.dll
